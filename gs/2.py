@@ -1,8 +1,8 @@
 # Definition for singly-linked list.
-#class ListNode(object):
-#    def __init__(self, x):
-#        self.val = x
-#        self.next = None
+class ListNode(object):
+    def __init__(self, x):
+        self.val = x
+        self.next = None
 
 class Solution(object):
     def addTwoNumbers(self, l1, l2):
@@ -31,17 +31,17 @@ class Solution(object):
         return head.next
 
         # solution1 
-        result = ListNode(0)
-        head = result
-        carry_over = 0
-        while l1 or l2:
-            result.next = ListNode(((l1.val if l1 != None else 0) + (l2.val if l2 != None else 0) + carry_over) % 10)
-            carry_over = ((l1.val if l1 != None else 0) + (l2.val if l2 != None else 0) + carry_over) / 10
-            result = result.next
-            if l1:
-                l1 = l1.next
-            if l2:
-                l2 = l2.next
-        if carry_over:
-            result.next = ListNode(carry_over)
-        return head.next
+        #result = ListNode(0)
+        #head = result
+        #carry_over = 0
+        #while l1 or l2:
+        #    result.next = ListNode(((l1.val if l1 != None else 0) + (l2.val if l2 != None else 0) + carry_over) % 10)
+        #    carry_over = ((l1.val if l1 != None else 0) + (l2.val if l2 != None else 0) + carry_over) / 10
+        #    result = result.next
+        #    if l1:
+        #        l1 = l1.next
+        #    if l2:
+        #        l2 = l2.next
+        #if carry_over:
+        #    result.next = ListNode(carry_over)
+        #return head.next
