@@ -1,3 +1,2 @@
-mid =123
-mid = mid - mid%10
-print(mid)
+for i in range(4):
+	print(i)
