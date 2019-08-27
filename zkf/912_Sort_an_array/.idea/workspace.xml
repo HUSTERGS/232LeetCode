@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1c2fe5c7-a396-44ec-a165-a5a504e02e45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortAnArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortAnArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SortAnArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/SortAnArrayTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="1c2fe5c7-a396-44ec-a165-a5a504e02e45" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,11 +14,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SortAnArrayTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+            <state relative-caret-position="510">
+              <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -30,11 +26,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SortAnArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="50" column="64" lean-forward="true" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+            <state relative-caret-position="195">
+              <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -97,7 +93,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.SortAnArrayTest.testSortAnArray">
+  <component name="RunManager" selected="JUnit.SortAnArrayTest">
+    <configuration name="SortAnArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="912_Sort_an_array" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SortAnArrayTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="SortAnArrayTest.testFindSmallest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="912_Sort_an_array" />
       <option name="PACKAGE_NAME" value="" />
@@ -140,6 +145,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SortAnArrayTest" />
         <item itemvalue="JUnit.SortAnArrayTest.testSortAnArray" />
         <item itemvalue="JUnit.SortAnArrayTest.testFindSmallestIndex" />
         <item itemvalue="JUnit.SortAnArrayTest.testFindSmallest" />
@@ -161,9 +167,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortAnArrayTest_testFindSmallest - 2019.07.12 at 16h 26m 46s.xml">
-      <configuration name="SortAnArrayTest.testFindSmallest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SortAnArrayTest_testFindSmallest - 2019.07.12 at 16h 27m 05s.xml">
       <configuration name="SortAnArrayTest.testFindSmallest" configurationId="JUnit" />
     </history-entry>
@@ -191,6 +194,9 @@
     <history-entry file="SortAnArrayTest_testSortAnArray - 2019.07.12 at 17h 25m 23s.xml">
       <configuration name="SortAnArrayTest.testSortAnArray" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SortAnArrayTest - 2019.07.12 at 17h 46m 56s.xml">
+      <configuration name="SortAnArrayTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -206,7 +212,7 @@
       <window_info anchor="bottom" id="Messages" weight="0.32891566" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32891566" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.68192774" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -226,22 +232,22 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/SortAnArrayTest.java">
+    <entry file="file://$PROJECT_DIR$/SortAnArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="30" column="43" lean-forward="true" selection-start-line="30" selection-start-column="43" selection-end-line="30" selection-end-column="43" />
+        <state relative-caret-position="195">
+          <caret line="43" column="5" lean-forward="true" selection-start-line="43" selection-start-column="5" selection-end-line="43" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="n#!!doc" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SortAnArray.java">
+    <entry file="file://$PROJECT_DIR$/SortAnArrayTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="50" column="64" lean-forward="true" selection-start-line="50" selection-start-column="64" selection-end-line="50" selection-end-column="64" />
+        <state relative-caret-position="510">
+          <caret line="34" column="44" lean-forward="true" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
           <folding>
-            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
